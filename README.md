@@ -1,2 +1,2 @@
 # Wheel_Generator
-creating wheel generator with PHP
+creating a wheel generator with html and php
